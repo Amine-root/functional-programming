@@ -1,1 +1,1 @@
-# java-functional-programming
+functional-programming
