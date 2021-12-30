@@ -5,8 +5,6 @@ import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-import com.sun.org.apache.xpath.internal.functions.FuncExtElementAvailable;
-
 public class _Streams {
 
 	public static void main(String[] args) {
